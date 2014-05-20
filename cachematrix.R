@@ -2,7 +2,7 @@
 ## functions do
 
 # I preferred to put the calculation of the inverse matrix directly in the makeCacheMatrix
-# so this could be an independent object that can calculate its own inverse.
+# so this could be an independent object that can calculate its own inverse without cacheSolve.
 # 
 # makeCacheMatrix is a object that contain a matrix, and can calculate and store its inverse
 # 
