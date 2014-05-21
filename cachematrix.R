@@ -10,7 +10,7 @@
 # You can make it calculate the inverse (and obviously put it in the cache), or you can give it
 # an inverse matrix you already know so it will just put this matrix in the cache
 # Finally, you can recalculate an inverse matrix that is already in the cache if you think
-# that it is wrong
+# that it was wrong
 
 ##############################################################################################################
 ##############################################################################################################
