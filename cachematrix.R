@@ -4,11 +4,11 @@
 # I preferred to put the calculation of the inverse matrix directly in the makeCacheMatrix
 # so this could be an independent object that can calculate its own inverse without cacheSolve.
 # 
-# makeCacheMatrix is a object that contain a matrix, and can calculate and store its inverse
+# makeCacheMatrix is an object that contains a matrix, and can calculate and store its inverse
 # 
 # cacheSolve simply calls the functions defined in makeCacheMatrix to help you use this object
 # You can make it calculate the inverse (and obviously put it in the cache), or you can give it
-# an inverse matrix you already know so it will just put this matrix in the cache
+# an inverse matrix you already know, so it will just put this matrix in the cache
 # Finally, you can recalculate an inverse matrix that is already in the cache if you think
 # that it was wrong
 
