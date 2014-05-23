@@ -6,7 +6,7 @@
 # 
 # makeCacheMatrix is an object that contains a matrix, and can calculate and store its inverse
 # 
-# cacheSolve simply calls the functions defined in makeCacheMatrix to help you use this object
+# cacheSolve simply calls the functions defined in makeCacheMatrix to help you to use this object
 # You can make it calculate the inverse (and obviously put it in the cache), or you can give it
 # an inverse matrix you already know, so it will just put this matrix in the cache
 # Finally, you can recalculate an inverse matrix that is already in the cache if you think
